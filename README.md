@@ -2,13 +2,13 @@
 
 高中中文寫作參考網站。按作文題目分類閱讀佳作，每篇顯示教師分數、內容大意、值得學習之處及有待改善之處。
 
-學生網站：https://akichien.github.io/literature-library/
+學生網站：https://chiencl.github.io/literature-library/
 
 ## 新增文章或補分數
 
 1. 在網站開啟「教師整理工具」，選擇現有文章修改，或填寫新文章。
 2. 新題目直接填入「作文題目」即可；同題目文章會自動歸類。教師分數留空即顯示「未評分」。
-3. 下載文章檔，前往 https://github.com/Akichien/literature-library/upload/main/content 上傳到 `content` 資料夾。
+3. 下載文章檔，前往 https://github.com/chiencl/literature-library/upload/main/content 上傳到 `content` 資料夾。
 4. 點擊 **Commit changes** 儲存。GitHub Actions 會自動建置並更新網站，毋須 AI，也不用手動上傳網站檔案。
 5. 修改已有文章時使用相同代號覆蓋；新增文章使用新的代號。發佈進度可在儲存庫的 Actions 查看。
 
